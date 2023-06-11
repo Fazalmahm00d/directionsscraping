@@ -29,7 +29,10 @@ The application is built using the following technologies:
    - Selenium Webdriver Scripting: A mapping and routing service provided by automating scripts Google Maps, used for retrieving directions between two locations.
 
 #Functionality
-The Chatbot Directions application provides the following functionality:
+
+
+
+The  Directions application provides the following functionality:
 
 1. **User Interface:**
    - The web application provides a user-friendly interface where users can input their starting location and destination.
@@ -53,7 +56,12 @@ The Chatbot Directions application provides the following functionality:
    - The frontend JavaScript code handles the response and displays the directions to the user on the web page.
 
 #Installation and Setup
-To run the Chatbot Directions application, follow these steps:
+
+
+
+
+
+To run the Directions application, follow these steps:
 
 1. Install Node.js and Python on your machine.
 2. Clone the project repository to your local machine.
@@ -64,6 +72,10 @@ To run the Chatbot Directions application, follow these steps:
 7. Access the application in your web browser at `http://localhost:3000`.
 
 # Future Enhancements
+
+
+
+
 Here are some potential enhancements that can be made to the Chatbot Directions application:
 
 1. **User Authentication:** Implement user authentication and session management to allow users to save their favorite locations and access them later.
