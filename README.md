@@ -3,9 +3,14 @@ I have scraped directions from google maps instead of api to fetch directions an
 
 
 #Overview
+
+
 The Chatbot Directions application is a web-based chatbot that provides directions between two locations. It allows users to enter a starting location and a destination, and the chatbot retrieves the directions and displays them to the user.
 
 #Technologies Used
+
+
+
 The application is built using the following technologies:
 
 1. **Frontend:**
@@ -19,10 +24,9 @@ The application is built using the following technologies:
    - Python: A programming language used for implementing the backend logic and interacting with external services.
    - Flask: A lightweight web framework for Python, used for creating a RESTful API endpoint.
    - Selenium: A web testing framework used for automating browser actions and interacting with web elements.
-   - Beautiful Soup: A Python library used for parsing HTML content and extracting data.
-
+   
 3. **Mapping and Routing Service:**
-   - Google Maps API: A mapping and routing service provided by Google, used for retrieving directions between two locations.
+   - Selenium Webdriver Scripting: A mapping and routing service provided by automating scripts Google Maps, used for retrieving directions between two locations.
 
 #Functionality
 The Chatbot Directions application provides the following functionality:
